@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwixt Jack and Will, concerning the Lord Mayor's going to meeting-houses with the sword carried before him, &amp;c.</title>
+            <author>Ridpath, George, d. 1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04997</idno>
+            <idno type="STC">Wing R1416A</idno>
+            <idno type="STC">ESTC R229659</idno>
+            <idno type="EEBO-CITATION">52614893</idno>
+            <idno type="OCLC">ocm 52614893</idno>
+            <idno type="VID">176061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176061)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwixt Jack and Will, concerning the Lord Mayor's going to meeting-houses with the sword carried before him, &amp;c.</title>
+                  <author>Ridpath, George, d. 1726.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Ridpath. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Church of England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176061:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWIXT <hi>Iack</hi> AND <hi>Will,</hi> Concerning the Ld. Mayor's Going to Meeting Houſes WITH THE SWORD Carried before Him, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:176061:2"/>
+            <head>A DIALOGUE BETWIXT <hi>Iack</hi> AND <hi>Will,</hi> Concerning The Lord Mayor's going to Meeting-Houſes with the Sword before Him, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>HOW d'ye Friend <hi>Will?</hi> have you heard the News?</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>What News d' ye mean <hi>Jack?</hi> We have little cauſe to fear ill News, now we have Peace?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>No? I'm ſure I have a piece of ill News to tell you. Did not you hear that my Lord-Mayor went to <hi>Salters-Hall</hi> on Sun<g ref="char:EOLhyphen"/>day laſt, with the Sword carried before him?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>To <hi>Salters-Hall,</hi> what to do? to a Play, or a Ball there?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Pox on ye for a numps-skull'd Fel<g ref="char:EOLhyphen"/>low, to a Play or a Ball on Sundays!</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:176061:2"/>
+               <speaker>Will.</speaker>
+               <p>Why all this Fury, <hi>Jack?</hi> I'm ſure I have read a Play that was acted at <hi>White-Hall</hi> on a Sunday in the Bleſſed Martyrs' time, preſent King, Queen, Prince, and God knows how many Stars and Garters: but indeed I don't know whether the Sword was carried thither in State or no.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Come, come, <hi>VVill;</hi> you love to play the Rogue; you know the Lord Mayor went thither on no ſuch Account.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Why ſo? how ſho'd I know? do ye think I am a Conjurer? What did he go thither for then? was it to hear Archbiſhop <hi>Laud</hi>'s Book of Sports? I hear my Lord Mayor is a brisk Man, perhaps he loves Sport and Paſtime, and is a good Gameſter; for you know we uſe to ſay of ſuch, <hi>that they play a Sundays.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Plague on ye, leave off your Banter, I tell you he went thither to a Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Piſh<g ref="char:punc">▪</g> what is that your ill News I was afraid that you'd have told me that he had gone to treat <hi>the Pope's Nuncio at dinner at</hi> Guildhall; or that you had had ſome ſuch frightful Story to tell me, <hi>as that the Town was on fire again,</hi> and we ſhould have been fore'd to be at the Expence of a <hi>New Monu<g ref="char:EOLhyphen"/>ment,</hi> which would have ruin'd the Orphans to all Intents and Purpoſes.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well well, Friend <hi>VVill;</hi> tho the
+<pb n="4" facs="tcp:176061:3"/>Town be not a fire, I am ſure the Church is.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Nay then Friend <hi>Jack,</hi> my Lord Mayor did very well to carry the <hi>wooden sword</hi> away from it, for that would have added Fewel to the Flames.</p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>Prethee leave off thy Fooling, and let's diſcourſe the Point in good Earneſt; thou always pretendeſt to be a true Church of <hi>England</hi> Man, and don't ye think that the Lord Mayor's going to a Conventicle with the Sword is an Injury to the Church of <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VVill</speaker>
+               <p>Why truly <hi>Jack,</hi> whether thou believeſt it or not, I am as much for the Church of <hi>England</hi> as any Man alive, and for my part I think that my Lord Mayor's going to Meetings with the Sword is a ve<g ref="char:EOLhyphen"/>ry <hi>noble Act:</hi> for it ſeems to me, that by carrying the Sword thither, he deſigns to make a Conqueſt of 'em for the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well, I ſee you love to banter: but you know that by going thither with the Sword he makes a Surrender of the Church of <hi>England</hi>'s Authority to a pitiful little Con<g ref="char:EOLhyphen"/>venticle.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Why prethee man, if the Sword be all, no matter if it had been burnt a dozen Years ago: Thou knoweſt very well, that in the late Bleſſed Reigns it was the pecu<g ref="char:EOLhyphen"/>liar
+<pb n="5" facs="tcp:176061:3"/>Doctrine of the Pulpits, that the Church had no other Weapons but Prayers and Tears and why doſt make all this pother about a wooden Sword? Sure thou art not afraid it will produce as ſtrange Effects as the old ruſty Sword in <hi>VVeſtminſter-Abbey,</hi> with which they ſay the Norman Duke cor quer'd <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Thou talk'ſt like a mad man; it's not the very individual Sword that I mean, but it's the Badg and Enſign of Authority that is carried away from the Church to a naſty lowzy Conventicle: a Pox on 'em, damn 'em, I hope to ſee 'em faſt in the <hi>Pin<g ref="char:EOLhyphen"/>fold</hi> yet once more before I die; and then we'll make 'em pay for their Inſolence, and Contempt of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Prethee don't rage ſo: thou haſt been ſo out of Humour ever ſince <hi>Lewis</hi> XIV was neceſſitated to reſign his new Conqueſts. and abjure King <hi>James,</hi> thou art fitter for <hi>Bedlam</hi> than any Place elſe. Come, I tell thee, that my Lord Mayor's carrying the Sword thirher, neither adds to the Authori<g ref="char:EOLhyphen"/>ty of the Meetings, nor derogates from the Authority of the Church of <hi>England,</hi> but rather enlarges her Pale. But after all the doe and ſtir you make about the Church, I beleive I may ſay to you as the little Boy ſaid to his Mother. <hi>Mother, what need you talk ſo
+<pb n="6" facs="tcp:176061:4"/>much of the Church? you don't go ſo often to it</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That's nothing to you <hi>Will:</hi> do you make out your Aſſertion, and the I'll ſay ſomething to thee.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Have but Patience, and I will. Thou knoweſt that the Diſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nters <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re allowed their Meetings by Act of Parliament which I hope is another kind of Authority than my Lord Mayor's Sword; and moſt honeſt Men think it but reaſonable they ſhould have that Liberty, notwithſtanding the threatning Words of the D—n of <hi>C. that if King</hi> Will<g ref="char:EOLhyphen"/>iam <hi>did not take away the damn'd Act of To<g ref="char:EOLhyphen"/>leration they'd ſend him back again to the Bogs of</hi> Holland.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Prethee let your Stories alone, and come to the matter. I own that an Act of Parliament is a better Authority than my Lord Mayor's Sword.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Why then it's certain that my Lord Mayor could not go thither with nor with<g ref="char:EOLhyphen"/>out his Sword, if the Diſſenters did not qua<g ref="char:EOLhyphen"/>lify themſelves according to the Terms of the Act.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>No, he could not.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Is it plain then, that if my Lord May<g ref="char:EOLhyphen"/>or's
+<pb n="7" facs="tcp:176061:4"/>Sword ſign fy any thing, it comes to de<g ref="char:EOLhyphen"/>fend the Doctrine of the Church of <hi>England</hi> at the Meeting as well as in the Church: And is not his Preſence there with the Enſign of Authority an Evidence that the Doctrine of our Church is preach'd there? whereas in former times the Meetings were look'd upon to be quite another thing than the Church of <hi>England.</hi> So that I think it is plain to any Man's Underſtanding, that his being there is only a Declaration that the pale of the Church is enlarg'd, and that we now own them for Brethren, that by the heat of ſome ill Men were formerly accounted our Ene<g ref="char:EOLhyphen"/>mies!</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Nay but you Miſtake the Matter. The Mettings have only a Liberty, but ours is the Church eſtabliſh'd by Law; their Meetings muſt not be accounted the Church, becauſe they have neither B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhops, nor Cere<g ref="char:EOLhyphen"/>monies, nor Benefices.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Prethee <hi>Jack</hi> don't talk ſuch Non<g ref="char:EOLhyphen"/>ſenſe. The Meettings are as much eſtabliſh'd by Law as the Church of <hi>England,</hi> if an Act of Parliament be a Law: and you know that it's only the Acts of Parliament that defend you in the practice of thoſe things wherein you differ from them. And our wiſe Law<g ref="char:EOLhyphen"/>givers finding the miſchievous Conſequence of having one Party of Proteſtants impow<g ref="char:EOLhyphen"/>er'd
+<pb n="8" facs="tcp:176061:5"/>to deſtroy another that differed from them only in Circumſtantials, as if they had been Hereticks, Schiſmaticks, and God knows what, thought fit to take thoſe Edg<g ref="char:EOLhyphen"/>tools out of the hands of a ſet of Men that know not how to uſe them; but to the wrong of their Neighbours, and to throw the Na<g ref="char:EOLhyphen"/>tion into Convulſions; and have granted Li<g ref="char:EOLhyphen"/>berty to our Brethern to worſhip God in the very ſame Ordinances that we do, tho they don't obſerve all thoſe Modes and Forms which by our ſelves are accounted in different.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How do you mean ind<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferent? Is it a thing indifferent to obſerve the Direc<g ref="char:EOLhyphen"/>tions and Commands of the Church? that's fine Work indeed!</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>By Indifferent I mean a thing that may be done or left undone, and ſo the Law means otherwiſe it would never have left me at my Liberty to go to a Meeting where there are no Ceremonies, or to a Church where there are Ceremonies.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>I am ſure the Church is Apoſtolical, and enjoin'd thoſe things upon her Members on pain of Excommunication, both as to Be<g ref="char:EOLhyphen"/>lief and Practices, if we may believe her Canons.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Thou art in a grand Miſtake. <hi>Jack.</hi> I grant you there was once ſuch a Set of men as arrogated to themſelves the Name of the
+<pb n="9" facs="tcp:176061:5"/>Church, that did ſo; but you know that the greateſt Divines of the Church of <hi>England</hi> did always account thoſe things indifferent even in Queen <hi>Elizabeth</hi>'s time: Read but the Lord Biſhop of <hi>Salisbury</hi>'s Letters, and you will there find plain Proofs of it, un<g ref="char:EOLhyphen"/>der the Hands of our greateſt Biſhops to the Divines in <hi>Switzerland:</hi> and for what hath been done ſince, you know that it was a Court, and a Popiſh Faction that enjoin'd thoſe things on ſuch and ſuch Penalties, mere<g ref="char:EOLhyphen"/>ly to widen the Differences amongſt Prote<g ref="char:EOLhyphen"/>ſtants, that they might ſwallow up both our Religion and Liberties; but the Church of <hi>England</hi> hath altered her Mind ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How! the Church of <hi>England</hi> al<g ref="char:EOLhyphen"/>ter'd her mind; What? d'ye make her akin to <hi>Mahomet?</hi> as if her Religion depended up<g ref="char:EOLhyphen"/>on the Moon, and were as changeable as ſhe.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Prethee not ſo faſt <hi>Jack,</hi> I know what I ſay; the Church of <hi>England</hi> hath al<g ref="char:EOLhyphen"/>ter'd her mind oftner than once; and no Diſ<g ref="char:EOLhyphen"/>grace to her neither. Proteſtants hold no Church nor Council Infallible; we have in<g ref="char:EOLhyphen"/>deed an infallible Rule, the Scriptures, but ſo long as we are clogg'd with Humani<g ref="char:EOLhyphen"/>ty, we are either like to come ſhort of it, or ſhoot beyond it; and in both theſe Caſes, muſt alter our mind, or ſet our ſelves in op<g ref="char:EOLhyphen"/>poſition to the Almighty.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:176061:6"/>
+               <speaker>Jack.</speaker>
+               <p>This is Fanatical Cant. When did the Church of <hi>England</hi> alter her Mind?</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Nay <hi>Jack,</hi> if you be ſo forgetful, I'll tell you: The Church of <hi>England</hi> in Queen <hi>Elizabeth</hi>'s time prayed her to cut off <hi>Mary</hi> Queen of the Scots, the Heir apparent or preſumptive at leaſt, to the Crown, and a Crown'd Head too, becauſe ſhe was at the Head of a Popiſh Plot. In <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond's Time the Church of <hi>England</hi> damn'd all them that were but for excluding the Duke of <hi>York</hi> upon the like Account. In Queen <hi>Elizabeth</hi>'s time the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> made an Act of Parliament, that the King and Parliament might limit and alter the Succeſſion; it is the 13th of <hi>Eliz.</hi> as I take it: <hi>In Charles</hi> the Firſt and Second's time, they accounted it damnable doctrine to recede in the leaſt from the Hereditary Line-Succeſſion. In <hi>Charles</hi> the Firſt and Second's time ſhe held it damnable not to believe the Doctrines of Paſſive Obedience and Non-Re<g ref="char:EOLhyphen"/>ſiſtance, and all her Clergy were ſworn to it in her Senſe: but in the End of <hi>James</hi> the Second's Reign, when he came to touch their own Copy-hold, then the Church bellow'd ſo loud, that ſhe was heard as far as the <hi>Hague,</hi> ſhe put on a blue Cloak and Jack<g ref="char:EOLhyphen"/>boots, and fought againſt her Soveraign with Jack and Spear, and after all ſettled King <hi>Villiam,</hi> our preſent glorious Monarch, on
+<pb n="11" facs="tcp:176061:6"/>the Throne, contrary to all her former avow'd Principles. So that you muſt either own that the Church of <hi>England</hi> hath alter'd her Mind, or declare your ſelf a rank Jacobite, and diſown any Church but their Faction: and to tell you the truth, it's that wretched Cabal that blows all theſe Sparks of Contenti<g ref="char:EOLhyphen"/>on among the hot-headed Party of our Church and I know you keep Company with them.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Thou haſt ſaid a great deal to convince me; but pray le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me ſee how the Church of <hi>England</hi> hath alter'd her Mind as to that Point of the Diſſenters.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Why they alter'd it in giving them their Liberty by a Law, whereas they formerly perſecuted them.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>How ſtrangely do you talk? It was the Parliament that gave them the Li<g ref="char:EOLhyphen"/>berty, and not the Church; if ſhe had done it, it muſt have been by Convocation.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Nay <hi>Jack,</hi> you talk ſtrangely, and not I. Is not all the People of <hi>England</hi> re<g ref="char:EOLhyphen"/>preſented by the Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Who doubts that? <hi>Will.</hi> Is not the Church then repreſented in Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>That's another thing: The Church is the Biſhops and their Clergy.</p>
+            </sp>
+            <sp>
+               <speaker>VVill.</speaker>
+               <p>Grant it be ſo: The Biſhops you know do actually ſit in Parliament in the Houſe of Lords; ſo that you muſt own the
+<pb n="12" facs="tcp:176061:7"/>Church is well enough repreſented there where all her Fathers meet; and you like<g ref="char:EOLhyphen"/>wiſe know that the Clergy as Freeholders have their Votes in chuſing Members of the Houſe of Commons, ſo that there the Cler<g ref="char:EOLhyphen"/>gy is ſufficiently repreſented, nay better and more univerſally than in any Convoca<g ref="char:EOLhyphen"/>tion. Then you know the Laity of the Church is truly repreſented in Parliament, whereas they have no Room in the Convo<g ref="char:EOLhyphen"/>cation, which is only the Officers of the Church, and can no more be call'd the Church it ſelf, then Officers without Soul<g ref="char:EOLhyphen"/>diers can be call'd an Army. So that when you inveigh againſt the Liberty given to our Diſſenting Brethren, you inveigh againſt the Church of <hi>England</hi> her ſelf, who by her Biſhops and other Repreſentatives in Parlia<g ref="char:EOLhyphen"/>ment have granted them that Liberty: And though they have reſerv'd the Sacramental Teſt as a Quit-rent, to make all thoſe who come into any Place of Power and Truſt, acknowledge their being Members of that Body of Proteſtants who are known by the Name of the Church, yet they have not reſtrain'd any of thoſe members from frequenting other Meetings where the Do<g ref="char:EOLhyphen"/>ctrine of the Church is preach'd either with or without the Enſigns and Badges of their Office. So that thoſe Gentlemen who by
+<pb n="13" facs="tcp:176061:7"/>their Order would go to reſtrain an Act of Parliament, might do well to conſider how they will be able to juſtifie themſelves if the Parliament ſhould call them in queſtion for it; which they are more like to do than to turn his Lordſhip out for acting conformably to the Law, and the Practice of other Corporations, to whom <hi>London</hi> ought rather to ſet a Pattern for aſſerting the Li<g ref="char:EOLhyphen"/>berties of the Subject, then to follow them.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Nay now thou ſpeakeſt big, <hi>VVill. ill.</hi> I have reaſon for what I ſay. Its the Parliament that hath ſettled the Limits of our Church, and given her all the Autho<g ref="char:EOLhyphen"/>rity he has, otherwiſe 'tis a mere Bull to call her the Church by Law eſtabliſh'd; and that ſame Authority may enlarge her Bounds and Pale when they pleaſe: and therefore to be ſo angry at the Parliament for taking in all thoſe that embrace the Doctrine of the Church under the Protecti<g ref="char:EOLhyphen"/>on of the Law, though it has not admitted 'em to Partake of the Benefices, is a horrid piece of Ingratitude to that Auguſt Aſſem<g ref="char:EOLhyphen"/>bly, who have all along defended the Church of <hi>England</hi> in the Poſſeſſion of what ſhe enjoys: more then her Brethren the Diſſenters; and by this Liberty the Parliament have added to her Strength, by giving thoſe a Legal Authority to defend
+<pb n="14" facs="tcp:176061:8"/>her Doctrine without Wages, which for many of thoſe that profeſs themſelves to be her Sons, have either ſlily undermined, or but faintly aſſerted, notwithſtanding their Benefices. And you know, <hi>Jack,</hi> that the Diſſenters have been as ſtanch Patriots of their Country, and Defenders of our Reli<g ref="char:EOLhyphen"/>gion and Liberties, as any Men in the Na<g ref="char:EOLhyphen"/>tion: and therefore it's the Intereſt of all Men that wiſh well to either of 'em, to pro<g ref="char:EOLhyphen"/>mote a hearty Union amongſt. Proteſtants of all Denominations whatſoever. So that for my own part I can ſee no harm in my Lord Mayor's carrying the Sword to a Meet<g ref="char:EOLhyphen"/>ing as well as to a Church; it has heard Paſ<g ref="char:EOLhyphen"/>ſive Obedience preach'd long enough, and it will do it no hart to be taught the Do<g ref="char:EOLhyphen"/>ctrine of Self-defence in its turn: for if the latter Doctrine had not been more ſervicea<g ref="char:EOLhyphen"/>ble to us then the former, we had neither had a Proteſtant Church nor Meeting-Houſe to have carried the Sword to long e're this.</p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Well, but for all that you can't but ſay it's an ill thing to carry the Sword thither.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Prithee in what Senſe is it ill? For my part I think the Sword ought to be carried thither rather then any where elſe; becauſe to give the Diſſenters their due, they always held that it was lawful to make uſe
+<pb n="15" facs="tcp:176061:8"/>of the Sword in defence of their Religion and Liberties; as well againſt Tyrants at home, as from Invaders abroad; whereas many of our Church-men would allow of no other Weapons againſt a Tyrant at home but Prayers and Tears: but to ſay the Truth, and no more, that was only while the Tyrant impowered them to Tyrannize over the Bodies, Conſciences and Eſtates of their Fellow-Chriſtians and Subjects; for when he came to touch themſelves, nay <hi>but one one of their Fingers,</hi> as a famous Au<g ref="char:EOLhyphen"/>thor has it, they made uſe of Guns and Spears, inſtead of Prayers and Tears, a<g ref="char:EOLhyphen"/>gainſt him; and <hi>let him underſtand,</hi> as the ſame Author ſays, <hi>that they had given him only a Spiritual Kingdom, and not a King<g ref="char:EOLhyphen"/>dom of this VVorld: for if his Kingdom had been of this World, then would his Ser<g ref="char:EOLhyphen"/>vants have fought for him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack.</speaker>
+               <p>Ay but a pox on't, though we al<g ref="char:EOLhyphen"/>low our ſelves to do ſo, yet we would not have the Diſſenters uſe the Sword; ours is the Apoſtolical Church, and they are but Schiſmaticks.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That's eaſier ſaid then prov'd; they hold the Doctrine of our Church, and live up to it as well, if not better then many of our ſelves: ſo that we muſt not call Men Schiſmaticks for differing from us in thoſe
+<pb n="16" facs="tcp:176061:9"/>things which we our ſelves account Indiffe<g ref="char:EOLhyphen"/>rent. And as for the Sword, though ſome Centlemen have thought fit to endeavour the preventing its being carried to Meetings by an Order, I cannot think that the Act of Parliament did ever intend to make better Proviſion for our Swords than for our Souls or for the Enſigns of Magiſtracy then for Ma<g ref="char:EOLhyphen"/>giſtrates themſelves. So that for any Party of Men to take upon them to bind up any Perſon, eſpecially a Magiſtrate of ſo great Power and Truſt as the Lord May or of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where the Law has left him at Liber<g ref="char:EOLhyphen"/>ty, ſeems to me to be a manifeſt Incro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch<g ref="char:EOLhyphen"/>ment upon the Legiſlative Power: and I wiſh wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h all my Heart there may not be mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of Envy and particular Pique (in ſuch eſpecially that are angry to ſee the Lord Mayor have more Courage then ſome of his Predeceſſors) than of Zeal for the Church of <hi>England,</hi> at the bottom of this Oppoſiti<g ref="char:EOLhyphen"/>on. So farewell <hi>Jack</hi> till next Meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>I have not had ſuch a rude Mercu<g ref="char:EOLhyphen"/>rial this good while; I'll go to <hi>Sam</hi>'s and get a Glaſs of Cordial Water, and then to the Commons, and recruit my ſelf over a Bottle, and muſter up more Forces againſt next meeting. Farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
